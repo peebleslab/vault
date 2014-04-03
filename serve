@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# TODO create a virtualenv for this site
+# TODO install required packages in the venv
+
